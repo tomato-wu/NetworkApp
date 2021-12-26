@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DownloadByClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/first/chapter04/DownloadByClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

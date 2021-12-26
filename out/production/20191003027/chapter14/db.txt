@@ -1,0 +1,10 @@
+#配置文件使用key=value的形式，key只能为英文，不能中文
+#该文件应加入到生成的类文件路径中。
+JDBC_DRIVER=com.mysql.jdbc.Driver
+DB_URL=jdbc:mysql://202.116.195.71:3306/mypeopledb?characterEncoding=utf8&useSSL=false
+DB_USER=student
+DB_PASSWORD=student
+
+#若出现文件打不开，有可能是如下原因：
+ #文件没有保存到class路径，而只是放在java源文件所在的路径
+
